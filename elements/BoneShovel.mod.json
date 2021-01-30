@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bone_shovel",
+    "customModelName": "Normal",
+    "name": "Bone Shovel",
+    "specialInfo": [
+      "骨头很坚硬，工具很耐用。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 3.5,
+    "usageCount": 1951,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

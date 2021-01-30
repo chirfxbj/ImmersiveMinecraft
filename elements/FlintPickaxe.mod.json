@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "flint_pickaxe",
+    "customModelName": "Normal",
+    "name": "Flint Pickaxe",
+    "specialInfo": [
+      "§7燧石做的镐，适合荒岛生存使用。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 71,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.FLINT"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "bone_hoe",
+    "customModelName": "Normal",
+    "name": "Bone Hoe",
+    "specialInfo": [
+      "骨头很坚硬，工具很耐用。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 1951,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.BONE"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

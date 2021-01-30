@@ -1,0 +1,634 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "IceSword",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_sword"
+    },
+    {
+      "name": "IceAxe",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_axe"
+    },
+    {
+      "name": "IceShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_shovel"
+    },
+    {
+      "name": "IceHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_hoe"
+    },
+    {
+      "name": "IcePickaxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_pickaxe"
+    },
+    {
+      "name": "IMcombot",
+      "type": "tab",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "i_mcombot"
+    },
+    {
+      "name": "BoneAxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_axe"
+    },
+    {
+      "name": "BoneSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_sword"
+    },
+    {
+      "name": "BonePickaxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_pickaxe"
+    },
+    {
+      "name": "BoneHoe",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_hoe"
+    },
+    {
+      "name": "BoneShovel",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_shovel"
+    },
+    {
+      "name": "CactusAxe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_axe"
+    },
+    {
+      "name": "CactusSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_sword"
+    },
+    {
+      "name": "CactusHoe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_hoe"
+    },
+    {
+      "name": "CactusPickaxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_pickaxe"
+    },
+    {
+      "name": "CactusShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cactus_shovel"
+    },
+    {
+      "name": "FlintAxe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_axe"
+    },
+    {
+      "name": "FlintSword",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_sword"
+    },
+    {
+      "name": "FlintPickaxe",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_pickaxe"
+    },
+    {
+      "name": "FlintShovel",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shovel"
+    },
+    {
+      "name": "FlintHoe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_hoe"
+    },
+    {
+      "name": "IceSwordRe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_sword_re"
+    },
+    {
+      "name": "IceAxeRe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_axe_re"
+    },
+    {
+      "name": "IceHoeRe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_hoe_re"
+    },
+    {
+      "name": "IcePickaxeRe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_pickaxe_re"
+    },
+    {
+      "name": "IceShovelRe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ice_shovel_re"
+    },
+    {
+      "name": "BoneShovelRe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_shovel_re"
+    },
+    {
+      "name": "BoneSwordRe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_sword_re"
+    },
+    {
+      "name": "BonePickaxeRe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_pickaxe_re"
+    },
+    {
+      "name": "BoneHoeRe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_hoe_re"
+    },
+    {
+      "name": "BoneAxeRe",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bone_axe_re"
+    },
+    {
+      "name": "FlintAxeRe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_axe_re"
+    },
+    {
+      "name": "FlintPickaxeRe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_pickaxe_re"
+    },
+    {
+      "name": "FlintHoeRe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_hoe_re"
+    },
+    {
+      "name": "FlintShovelRe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_shovel_re"
+    },
+    {
+      "name": "FlintSwordRe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_sword_re"
+    },
+    {
+      "name": "SilverOre",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore"
+    },
+    {
+      "name": "OreTab",
+      "type": "tab",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ore_tab"
+    },
+    {
+      "name": "SilverIngot",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ingot"
+    },
+    {
+      "name": "Rhodonite",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhodonite"
+    },
+    {
+      "name": "RosapyroxeneCrystal",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rosapyroxene_crystal"
+    },
+    {
+      "name": "RhodoniteToCrystal",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rhodonite_to_crystal"
+    },
+    {
+      "name": "Heliolite",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heliolite"
+    },
+    {
+      "name": "LmpureFragmentsOfHeliolite",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lmpure_fragments_of_heliolite"
+    },
+    {
+      "name": "HelioliteTolmpureFragmentsOfHeliolite",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heliolite_tolmpure_fragments_of_heliolite"
+    },
+    {
+      "name": "SilverOreToIngot",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "silver_ore_to_ingot"
+    },
+    {
+      "name": "Peridot",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot"
+    },
+    {
+      "name": "PeridotCrystal",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_crystal"
+    },
+    {
+      "name": "PeridotToCrystal",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_to_crystal"
+    },
+    {
+      "name": "PeridotPowder",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_powder"
+    },
+    {
+      "name": "PeridotCoatedWood",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_coated_wood"
+    },
+    {
+      "name": "BulidTab",
+      "type": "tab",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulid_tab"
+    },
+    {
+      "name": "PeridotCrystalToPeriotPowder",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_crystal_to_periot_powder"
+    },
+    {
+      "name": "PeridotPrint",
+      "type": "item",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_print"
+    },
+    {
+      "name": "PeridotPowderToPeridotPrint",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_powder_to_peridot_print"
+    },
+    {
+      "name": "PeridotCoatedWoodRe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "peridot_coated_wood_re"
+    },
+    {
+      "name": "StoneSetWithTopaz",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stone_set_with_topaz"
+    },
+    {
+      "name": "Topaz",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz"
+    },
+    {
+      "name": "SswTopazToTopaz",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ssw_topaz_to_topaz"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.immersive_minecraft.stone_set_with_topaz": "Stone Set With Topaz",
+      "block.immersive_minecraft.rhodonite": "Rhodonite",
+      "block.immersive_minecraft.silver_ore": "Silver Ore",
+      "item.immersive_minecraft.silver_ingot": "Silver Ingot",
+      "item.immersive_minecraft.lmpure_fragments_of_heliolite": "Lmpure Fragments Of Heliolite",
+      "item.immersive_minecraft.rosapyroxene_crystal": "Rosapyroxene Crystal",
+      "item.immersive_minecraft.flint_sword": "Flint Sword",
+      "item.immersive_minecraft.bone_pickaxe": "Bone Pickaxe",
+      "item.immersive_minecraft.ice_axe": "Ice Axe",
+      "item.immersive_minecraft.bone_shovel": "Bone Shovel",
+      "item.immersive_minecraft.bone_hoe": "Bone Hoe",
+      "item.immersive_minecraft.flint_axe": "Flint Axe",
+      "item.immersive_minecraft.ice_pickaxe": "Ice Pickaxe",
+      "block.immersive_minecraft.peridot_coated_wood": "Peridot Coated Wood",
+      "item.immersive_minecraft.topaz": "Topaz",
+      "item.immersive_minecraft.ice_hoe": "Ice Hoe",
+      "item.immersive_minecraft.flint_shovel": "Flint Shovel",
+      "item.immersive_minecraft.peridot_crystal": "Peridot Crystal",
+      "item.immersive_minecraft.cactus_shovel": "Cactus Shovel",
+      "item.immersive_minecraft.bone_axe": "Bone Axe",
+      "item.immersive_minecraft.flint_hoe": "Flint Hoe",
+      "item.immersive_minecraft.peridot_powder": "Peridot Powder",
+      "item.immersive_minecraft.cactus_hoe": "Cactus Hoe",
+      "itemGroup.tabi_mcombot": "Immersive Minecraft - Weapons and tools",
+      "item.immersive_minecraft.ice_shovel": "Ice Shovel",
+      "item.immersive_minecraft.flint_pickaxe": "Flint Pickaxe",
+      "itemGroup.tabbulid_tab": "Immersive Minecraft - Bulid",
+      "item.immersive_minecraft.ice_sword": "Ice Sword",
+      "item.immersive_minecraft.cactus_sword": "Cactus Sword",
+      "item.immersive_minecraft.bone_sword": "Bone Sword",
+      "block.immersive_minecraft.heliolite": "Heliolite",
+      "item.immersive_minecraft.cactus_axe": "Cactus Axe",
+      "item.immersive_minecraft.peridot_print": "Peridot Print",
+      "block.immersive_minecraft.peridot": "Peridot",
+      "item.immersive_minecraft.cactus_pickaxe": "Cactus Pickaxe",
+      "itemGroup.tabore_tab": "Immersive Minecraft - Ore"
+    },
+    "zh_cn": {
+      "block.immersive_minecraft.stone_set_with_topaz": "嵌着黄玉的石头",
+      "block.immersive_minecraft.rhodonite": "蔷薇辉石",
+      "block.immersive_minecraft.silver_ore": "银矿",
+      "item.immersive_minecraft.silver_ingot": "银锭",
+      "item.immersive_minecraft.rosapyroxene_crystal": "蔷薇辉石晶体",
+      "item.immersive_minecraft.lmpure_fragments_of_heliolite": "不纯的日光石碎片",
+      "item.immersive_minecraft.bone_pickaxe": "骨头稿子",
+      "item.immersive_minecraft.flint_sword": "燧石剑",
+      "item.immersive_minecraft.ice_axe": "冰斧头",
+      "item.immersive_minecraft.bone_shovel": "骨头铲子",
+      "item.immersive_minecraft.bone_hoe": "骨头锄头",
+      "item.immersive_minecraft.flint_axe": "燧石斧",
+      "item.immersive_minecraft.ice_pickaxe": "冰镐",
+      "block.immersive_minecraft.peridot_coated_wood": "被橄榄石涂料涂过的木板",
+      "item.immersive_minecraft.topaz": "黄玉",
+      "item.immersive_minecraft.ice_hoe": "冰锄头",
+      "item.immersive_minecraft.flint_shovel": "燧石铲",
+      "item.immersive_minecraft.peridot_crystal": "橄榄石水晶",
+      "item.immersive_minecraft.cactus_shovel": "仙人掌铲子",
+      "item.immersive_minecraft.bone_axe": "骨头斧头",
+      "item.immersive_minecraft.flint_hoe": "燧石锄",
+      "item.immersive_minecraft.peridot_powder": "橄榄石粉末",
+      "item.immersive_minecraft.cactus_hoe": "仙人掌锄头",
+      "itemGroup.tabi_mcombot": "Immersive Minecraft - 武器和工具",
+      "item.immersive_minecraft.ice_shovel": "冰铲子",
+      "item.immersive_minecraft.flint_pickaxe": "燧石镐",
+      "itemGroup.tabbulid_tab": "Immersive Minecraft - 建筑",
+      "item.immersive_minecraft.ice_sword": "冰剑",
+      "item.immersive_minecraft.cactus_sword": "仙人掌剑",
+      "item.immersive_minecraft.bone_sword": "骨头剑",
+      "block.immersive_minecraft.heliolite": "日光石",
+      "item.immersive_minecraft.cactus_axe": "仙人掌斧头",
+      "item.immersive_minecraft.peridot_print": "橄榄石涂料",
+      "block.immersive_minecraft.peridot": "橄榄石",
+      "item.immersive_minecraft.cactus_pickaxe": "仙人掌镐",
+      "itemGroup.tabore_tab": "Immersive Minecraft - 矿物"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "immersive_minecraft",
+    "modName": "Immersive Minecraft",
+    "version": "1.0.0",
+    "author": "Windows_User, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.studios.mcmodule.immersive_minecraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000546519
+}

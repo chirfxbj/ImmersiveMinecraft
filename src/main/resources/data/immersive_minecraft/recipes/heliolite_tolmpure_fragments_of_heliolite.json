@@ -1,0 +1,9 @@
+{
+  "group": "heliolite",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "immersive_minecraft:heliolite"
+  },
+  "result": "immersive_minecraft:lmpure_fragments_of_heliolite"
+}

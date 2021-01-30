@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "immersive_minecraft:blocks/peridot",
+    "particle": "immersive_minecraft:blocks/peridot"
+  }
+}

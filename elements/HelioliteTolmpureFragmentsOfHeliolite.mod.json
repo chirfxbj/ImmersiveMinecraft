@@ -1,0 +1,20 @@
+{
+  "_fv": 13,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "heliolite",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Heliolite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:LmpureFragmentsOfHeliolite"
+    },
+    "name": "heliolite_tolmpure_fragments_of_heliolite",
+    "namespace": "mod"
+  }
+}

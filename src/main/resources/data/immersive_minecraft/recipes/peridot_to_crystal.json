@@ -1,0 +1,9 @@
+{
+  "group": "immersive_minecraft",
+  "type": "minecraft:stonecutting",
+  "count": 3,
+  "ingredient": {
+    "item": "immersive_minecraft:peridot"
+  },
+  "result": "immersive_minecraft:peridot_crystal"
+}

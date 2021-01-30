@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Immersive Minecraft - Ore",
+    "icon": {
+      "value": "CUSTOM:SilverOre"
+    },
+    "showSearch": false
+  }
+}

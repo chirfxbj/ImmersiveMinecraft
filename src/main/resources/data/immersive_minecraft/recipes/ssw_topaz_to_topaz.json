@@ -1,0 +1,9 @@
+{
+  "group": "immersive_minecraft",
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "immersive_minecraft:stone_set_with_topaz"
+  },
+  "result": "immersive_minecraft:topaz"
+}

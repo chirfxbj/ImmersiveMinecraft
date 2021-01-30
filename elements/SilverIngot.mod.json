@@ -1,0 +1,34 @@
+{
+  "_fv": 13,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "silver_ingot",
+    "customModelName": "Normal",
+    "name": "Silver Ingot",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:OreTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [
+      "银锭是熔铸成锭的白银。出土银锭中年代最早的，是汉景帝中元二年 (公元前148年) 所铸。汉武帝元狩四年 (公元前119年) 作白金 (即白银) 三品。王莽铸有银货二品。其后历代皆有铸造，惟流通不广。隋唐以前称银锭为“银饼”、“银铤”，称扁平形银币为“钣”、“笏”、“版”，棒形的称“铤”、“挺”，宋以后改称“银锭”。元代于银锭之外总称“元宝”，形式变为马蹄形，故亦称“马蹄银”。明清两代均沿用“元宝”一词。"
+    ],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

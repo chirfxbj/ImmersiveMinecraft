@@ -1,0 +1,41 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "ice_axe",
+    "customModelName": "Normal",
+    "name": "Ice Axe",
+    "specialInfo": [
+      "§b攻速快的斧头，耐久低，可以用于PVP。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 2,
+    "damageVsEntity": 5.0,
+    "usageCount": 212,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.PACKED_ICE"
+      },
+      {
+        "value": "Blocks.FROSTED_ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

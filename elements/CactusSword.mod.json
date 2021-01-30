@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cactus_sword",
+    "customModelName": "Normal",
+    "name": "Cactus Sword",
+    "specialInfo": [
+      "§2仙人掌很轻，耐久低，PVP还行 。"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 5.0,
+    "enchantability": 2,
+    "damageVsEntity": 3.0,
+    "usageCount": 240,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Blocks.CACTUS"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

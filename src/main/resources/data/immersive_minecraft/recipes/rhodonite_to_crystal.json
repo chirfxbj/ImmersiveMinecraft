@@ -1,0 +1,9 @@
+{
+  "group": "rhodonite",
+  "type": "minecraft:stonecutting",
+  "count": 5,
+  "ingredient": {
+    "item": "immersive_minecraft:rhodonite"
+  },
+  "result": "immersive_minecraft:rosapyroxene_crystal"
+}

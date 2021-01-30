@@ -1,0 +1,12 @@
+{
+  "group": "immersive_minecraft",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "immersive_minecraft:peridot_powder"
+  },
+  "result": {
+    "item": "immersive_minecraft:peridot_print"
+  }
+}

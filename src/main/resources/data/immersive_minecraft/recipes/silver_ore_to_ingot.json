@@ -1,0 +1,12 @@
+{
+  "group": "silver",
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 401,
+  "ingredient": {
+    "item": "immersive_minecraft:silver_ore"
+  },
+  "result": {
+    "item": "immersive_minecraft:silver_ingot"
+  }
+}

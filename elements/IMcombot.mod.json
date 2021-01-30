@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Immersive Minecraft - Weapons and tools",
+    "icon": {
+      "value": "CUSTOM:IceSword"
+    },
+    "showSearch": false
+  }
+}

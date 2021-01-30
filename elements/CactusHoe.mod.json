@@ -1,0 +1,28 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cactus_hoe",
+    "customModelName": "Normal",
+    "name": "Cactus Hoe",
+    "specialInfo": [
+      "°Ï2œ…»À’∆∫‹«·£¨ƒÕæ√µÕ°£"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:IMcombot"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 4.0,
+    "enchantability": 2,
+    "damageVsEntity": 1.0,
+    "usageCount": 240,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

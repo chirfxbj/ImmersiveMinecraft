@@ -1,0 +1,24 @@
+{
+  "group": "bone_tools",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bone"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "immersive_minecraft:bone_sword",
+    "count": 1
+  }
+}

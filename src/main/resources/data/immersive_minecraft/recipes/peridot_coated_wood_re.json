@@ -1,0 +1,42 @@
+{
+  "group": "immersive_minecraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "1": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "2": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "3": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "4": {
+      "tag": "minecraft:planks"
+    },
+    "5": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "6": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "7": {
+      "item": "immersive_minecraft:peridot_print"
+    },
+    "8": {
+      "item": "immersive_minecraft:peridot_print"
+    }
+  },
+  "result": {
+    "item": "immersive_minecraft:peridot_coated_wood",
+    "count": 1
+  }
+}
